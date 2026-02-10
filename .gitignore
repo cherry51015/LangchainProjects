@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# Streamlit
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+*.exe
+
+# Vector DB artifacts
+chromadb/
+*.sqlite3
+
+# FAISS
+faiss_index/
+*.faiss
+*.pkl
+
+# Databases
+*.db
